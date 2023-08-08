@@ -13,7 +13,8 @@ DEPENDENCIES = [
     "primme",
     "threadpoolctl",
     "tqdm",
-    "pandas"
+    "pandas",
+    "openpyxl"
 ]
 PY_MODULE = []
 DESCRIPTION = "a package for scqubits benchmark"
