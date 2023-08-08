@@ -17,7 +17,8 @@ DEPENDENCIES = [
     "threadpoolctl",
     "tqdm",
     "pandas",
-    "openpyxl"
+    "openpyxl",
+    "notebook"
 ]
 PY_MODULE = []
 DESCRIPTION = "a package for scqubits benchmark"
