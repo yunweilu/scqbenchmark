@@ -18,7 +18,8 @@ DEPENDENCIES = [
     "tqdm",
     "pandas",
     "openpyxl",
-    "notebook"
+    "notebook",
+    "jupyter"
 ]
 PY_MODULE = []
 DESCRIPTION = "a package for scqubits benchmark"
