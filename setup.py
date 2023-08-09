@@ -8,7 +8,6 @@ from distutils.core import setup
 NAME = "scqbenchmark"
 VERSION = "0.1"
 DEPENDENCIES = [
-    "jupyterlab",
     "ipyvuetify",
     "ipywidgets",
     "scqubits",
@@ -18,8 +17,6 @@ DEPENDENCIES = [
     "tqdm",
     "pandas",
     "openpyxl",
-    "notebook",
-    "jupyter"
 ]
 PY_MODULE = []
 DESCRIPTION = "a package for scqubits benchmark"
