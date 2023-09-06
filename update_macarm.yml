@@ -1,0 +1,19 @@
+name: benchmark_scq_v9
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - pip:
+      - primme
+      - notebook
+      - future
+      - ipyvuetify
+      - ipywidgets
+      - scqubits
+      - py-cpuinfo
+      - threadpoolctl
+      - tqdm
+      - pandas
+      - openpyxl      
+
